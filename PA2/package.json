@@ -1,0 +1,13 @@
+{
+  "name": "PA2",
+  "version": "1.0.0",
+  "description": "UVa Cloud Computing CS4740 (Spring 2019) PA2",
+  "author": "Zhaoyang Wang <zw4dn@virginia.edu>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
