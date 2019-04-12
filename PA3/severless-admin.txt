@@ -1,0 +1,8 @@
+Access key id
+AKIAI7JNVRWAL6KKKHZA
+secret access key
+j3VpZaGp4x77nzL7uSOyKD5MOcOBKsVPYjwLCgaE
+
+
+scp -r -i /User/ouchouyang/Desktop/CS4740PrivateKey.pem /Users/ouchouyang/Desktop/CS4740/PA3/handler.py ubuntu@ec2-3-80-212-167.compute-1.amazonaws.com:~/luckynumber
+
